@@ -11,12 +11,13 @@
 
                                       INTEGRANTES: 
 
-                  •	Obregon Coronado Pedro Antonio
-        	      •	Ampuero Ramos Mirko
-	              •	Bermudez Sevillano Jean
-                  •	Guanilo Otero Angelo
-               	  •	Mendoza Anamaria Oscar
-                  •	Patricio Garcia Juan Carlos
+                  •	Obregon Coronado Pedro Antonio ORCID 0000-0003-2454-0469 100%
+                  •	Ampuero Ramos Mirko 		     ORCID 0000-0002-7935-0999 80%
+                  •	Bermudez Sevillano Jean 	     ORCID 0000-0001-8333-9277 70%
+                  •	Guanilo Otero Angelo                     ORCID 0000-0002-3383-1690 100%
+                  •	Mendoza Anamaria Oscar	     ORCID 0000-0001-6115-6138 100%
+                  •	Patricio Garcia Juan Carlos             ORCID 0000-0003-4420-1907 70%
+                  •	Romo Rubio Brian 		     ORCID 0000-0002-9304-6942  70%
 
 
                                       
@@ -81,8 +82,9 @@
 | Jefe de proyectos| Mendoza Anamaria Óscar Daniel | Generar facilidad en elnegocio. Garantizar que el proyecto cumple los estándares de calidad esperados
 |  Analisis de sistema|  PATRICIO GARCIA, JUAN CARLOS| Diseñar el sistema  que cumpla con las expectativas y la eficacia de la empresa textil .
 |                     | AMPUERO RAMOS MIRKO ROMAN    | Realizar un estudio detallado de la empresa, para identificar sus procedimientos y las necesidades de las personas que utilizan sus sistemas.
-|                      |BERMUDEZ SEVILLANO JEAN WENIGER|  
-| Programador          | OBREGON CORONADO PEDRO| Desarrollar aplicaciones y programas informáticos, sirviéndose de las bases de un software existente para crear una interfaz para la empresa|
+|                      |BERMUDEZ SEVILLANO JEAN WENIGER, GUANILO OTERO ANGELO
+|  
+| Programador          | OBREGON CORONADO PEDRO, ROMO RUBIO BRIAN| Desarrollar aplicaciones y programas informáticos, sirviéndose de las bases de un software existente para crear una interfaz para la empresa|
 
         1.6.3  Software
         El servicio web contará con los siguientes requisitos:
