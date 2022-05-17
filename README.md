@@ -155,12 +155,25 @@ esto le permitirá adquirir toda la información que ella requiera y solucionar 
 ![visual estudio code logo](CASO3.jpg)
 
       3.1.6.   Plantilla de especificación de casos de uso.
-      
+                 
   ![visual estudio code logo](CUO01.jpg)
 
   ![visual estudio code logo](CUO03.jpg)
+
       3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
 
       3.1.8. Modelo Conceptual de Clases.
 
 ![visual estudio code logo](MODCOCLA.jpg)
+  
+      3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso
+   
+   
+      3.1.8. Modelo Conceptual de Clases
+
+3.2. Análisis Orientado a Objetos
+
+      3.2.1. Modelo de Análisis
+      
+      
+      3.3.1.1. Diagrama de Análisis de Clases
