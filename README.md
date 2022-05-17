@@ -7,7 +7,7 @@
 ## ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
 
 
-### IMPLEMENTAR UN SISTEMA DE CONTROL DE ENTRADA Y SALIDA DEL SERVICIO DE COSTURA Y TEÑIDO
+### IMPLEMENTAR UN SISTEMA DE CONTROL DE ENTRADA Y SALIDA DEL SERVICIO DE COSTURA Y TEÑIDO EN LA EMPRESA "EBENEZER"
 
                                       INTEGRANTES: 
 
@@ -41,7 +41,12 @@
 
 # INTRODUCCIÓN 
 
- El emprendimiento y la innovación son actividades de gran importancia puesto que generan un impacto significativo a nivel social y en el crecimiento económico del país, lo que ha llevado a generar en las personas la necesidad de cambiar el rol de empleados a empleadores con el fin de lograr independencia y estabilidad económica, iniciando sus propios negocios donde se requiere optimizar los recursos financieros, con la finalidad de alcanzar las metas propuestas.
+ Hoy en día sabemos que la tecnología está avanzando de una forma muy rápida y existe la necesidad de ser competitivos en el mercado, es por ello que las organizaciones han dejado de lado aquellos pensamientos antiguos.
+El emprendimiento y la innovación son actividades de gran importancia puesto que generan un impacto significativo a nivel social y en el crecimiento económico del país, lo que ha llevado a generar en las personas la necesidad de cambiar el rol de empleados a empleadores con el fin de lograr independencia y estabilidad económica, iniciando sus propios negocios donde se requiere optimizar los recursos financieros, con la finalidad de alcanzar las metas propuestas.
+
+Es el caso de el negocio “EBENEZER” donde el administrador debe de optar de una manera muy acertada invertir para un desarrollo de Sistemas de Información, donde 
+esto le permitirá adquirir toda la información que ella requiera y solucionar aquellos problemas que van en contra de la  visión del negocio. Y ante ello con el Sistema de  Información se busca alcanzar beneficios competitivos y  económicos, lo cual esto permitirá que el negocio “EBENEZER” sea distinta a las demás ya que  estará a un paso más adelante con un manejo firme en toma de decisiones con información fiable y en tiempo real.
+
 
 # ÍNDICE
 
@@ -60,7 +65,11 @@
        1.3.1 Objetivo General
        *   Diseñar un Plan de sistema de control de entradas y salidas del servicio de costura ,confección y   teñido de prendas de vestir “EBENEZER"
        *   Diseño de un Registro de Datos 
- 	 	  
+
+       1.3.2 Objetivos Específicos
+       * Controlar las entradas y salidas de los productos en el negocio EBENEZER
+       * Conocer mediante un reporte ganancias generadas por dia en el negocio EBENEZER
+  
 
 
    1.4 ANTECEDENTES
@@ -69,6 +78,8 @@
 
 
    1.5 ORGANIGRAMA
+
+   ![visual estudio code logo](ORGANI.jpg)
 
    1.6. ÁMBITO DEL PROYECTO 
 
@@ -82,8 +93,7 @@
 | Jefe de proyectos| Mendoza Anamaria Óscar Daniel | Generar facilidad en elnegocio. Garantizar que el proyecto cumple los estándares de calidad esperados
 |  Analisis de sistema|  PATRICIO GARCIA, JUAN CARLOS| Diseñar el sistema  que cumpla con las expectativas y la eficacia de la empresa textil .
 |                     | AMPUERO RAMOS MIRKO ROMAN    | Realizar un estudio detallado de la empresa, para identificar sus procedimientos y las necesidades de las personas que utilizan sus sistemas.
-|                      |BERMUDEZ SEVILLANO JEAN WENIGER, GUANILO OTERO ANGELO
-|  
+|                      |BERMUDEZ SEVILLANO JEAN WENIGER, GUANILO OTERO ANGELO  
 | Programador          | OBREGON CORONADO PEDRO, ROMO RUBIO BRIAN| Desarrollar aplicaciones y programas informáticos, sirviéndose de las bases de un software existente para crear una interfaz para la empresa|
 
         1.6.3  Software
@@ -92,7 +102,7 @@
         * GitHub
         * Enterprise Architect
         * Microsoft Word
-        * SQL Server 2019
+        * MySQL
         * Visual Studio Code
         * Microsoft Excel
         * Netbeans
@@ -106,23 +116,25 @@
 ![visual estudio code logo](cronoacti.jpg)
 
 
-2. ASPECTOS DEL NEGOCIO
+1. ASPECTOS DEL NEGOCIO
 
    2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
 
    El problema principal que se ve en el negocio  “EBENEZER” es que no cuenta con un registro de control de entradas y salidas del servicio de costura, confección y teñido de prendas de vestir; lo cual causa una gran demanda en ciertos procesos y actividades relacionadas al negocio. Pues como todo negocio, demanda que sea rentable y exitoso. Al no tener este proceso automatizado, no solo afecta en el sobretiempo de los trabajadores y la pérdida de ingresos para el negocio, sino también la calidad de la prenda que se le devolverá al cliente.
 
-3. METODOLOGÍA
+2. METODOLOGÍA
 
    3.1. Modelo de Requerimientos.
 
 	   3.1.1.   Cuadro de requerimientos funcionales, indicando: identificativo, nombre y descripción.
 
 ![visual estudio code logo](RF.jpg)
+![visual estudio code logo](RF2.jpg)
 
       3.1.2 Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
-  ![visual estudio code logo](RNF.jpg)    
+  ![visual estudio code logo](RNF.jpg)   
+  ![visual estudio code logo](RNF2.jpg) 
 
 
       3.1.3.   Relación de actores y su descripción, cuadro indicando
@@ -132,6 +144,7 @@
       3.1.4.   Relación de casos de uso, cuadro indicando:
 
   ![visual estudio code logo](CASOUSO.jpg)
+  ![visual estudio code logo](CASOUSO2.jpg)
 
       3.1.5 Modelo de Casos de Uso de Requerimientos.
 
