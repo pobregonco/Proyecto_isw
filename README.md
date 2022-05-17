@@ -159,4 +159,8 @@ esto le permitirá adquirir toda la información que ella requiera y solucionar 
   ![visual estudio code logo](CUO01.jpg)
 
   ![visual estudio code logo](CUO03.jpg)
-   
+      3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
+
+      3.1.8. Modelo Conceptual de Clases.
+
+![visual estudio code logo](MODCOCLA.jpg)
