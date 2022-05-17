@@ -166,6 +166,7 @@ esto le permitirá adquirir toda la información que ella requiera y solucionar 
       3.1.8. Modelo Conceptual de Clases
       
 3.2. Análisis Orientado a Objetos
+
       3.2.1. Modelo de Análisis
       
       
