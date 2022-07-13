@@ -12,18 +12,17 @@
                                       INTEGRANTES: 
 
                   •	Obregon Coronado Pedro Antonio ORCID 0000-0003-2454-0469 100%
-                  •	Ampuero Ramos Mirko 		     ORCID 0000-0002-7935-0999 80%
-                  •	Bermudez Sevillano Jean 	     ORCID 0000-0001-8333-9277 70%
+                  •	Ampuero Ramos Mirko 		     ORCID 0000-0002-7935-0999 100%
+                  •	Bermudez Sevillano Jean 	     ORCID 0000-0001-8333-9277 100%
                   •	Guanilo Otero Angelo                     ORCID 0000-0002-3383-1690 100%
                   •	Mendoza Anamaria Oscar	     ORCID 0000-0001-6115-6138 100%
-                  •	Patricio Garcia Juan Carlos             ORCID 0000-0003-4420-1907 70%
-                  •	Romo Rubio Brian 		     ORCID 0000-0002-9304-6942  70%
+                  •	Patricio Garcia Juan Carlos             ORCID 0000-0003-4420-1907 100%
 
 
                                       
                                        DOCENTE:
 
-                          Berrocal Navarro Richard Leonardo
+                          Berrocal Navarro Richard Leonardo 0000-0001-8718-3150
 
 
 
@@ -94,7 +93,7 @@ esto le permitirá adquirir toda la información que ella requiera y solucionar 
 |  Analisis de sistema|  PATRICIO GARCIA, JUAN CARLOS| Diseñar el sistema  que cumpla con las expectativas y la eficacia de la empresa textil .
 |                     | AMPUERO RAMOS MIRKO ROMAN    | Realizar un estudio detallado de la empresa, para identificar sus procedimientos y las necesidades de las personas que utilizan sus sistemas.
 |                      |BERMUDEZ SEVILLANO JEAN WENIGER, GUANILO OTERO ANGELO  
-| Programador          | OBREGON CORONADO PEDRO, ROMO RUBIO BRIAN| Desarrollar aplicaciones y programas informáticos, sirviéndose de las bases de un software existente para crear una interfaz para la empresa|
+| Programador          | OBREGON CORONADO PEDRO| Desarrollar aplicaciones y programas informáticos, sirviéndose de las bases de un software existente para crear una interfaz para la empresa|
 
         1.6.3  Software
         El servicio web contará con los siguientes requisitos:
@@ -161,19 +160,60 @@ esto le permitirá adquirir toda la información que ella requiera y solucionar 
   ![visual estudio code logo](CUO03.jpg)
 
       3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
-
+  ![visual estudio code logo](matriz.jpg)  
       3.1.8. Modelo Conceptual de Clases.
 
 ![visual estudio code logo](MODCOCLA.jpg)
-  
-      3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso
-   
-   
-      3.1.8. Modelo Conceptual de Clases
 
 3.2. Análisis Orientado a Objetos
 
       3.2.1. Modelo de Análisis
       
-      
       3.3.1.1. Diagrama de Análisis de Clases
+![visual estudio code logo](diaclases.jpg)
+
+    3.3.1.2. Diagramas de Secuencia y Colaboración de Análisis
+
+ ![visual estudio code logo](diasecu.jpg)  
+
+ ![visual estudio code logo](diasecu2.jpg)
+
+ 3.2.2. Lista de Clases de Interfaz.
+![visual estudio code logo](listaclas.jpg)
+
+3.2.4. Lista de Clases de Control.
+![visual estudio code logo](listaclas2.jpg)
+
+3.2.5. Lista de Clases de Entidades.
+
+3.2.5. Modelo Logico de Clases 
+
+![visual estudio code logo](modologiclas.jpg)
+
+3.3.3. Diagrama de la capa presentación
+![visual estudio code logo](diacapres.jpg)
+
+ 3.3.4. Diagramas de la Capa de Negocio
+ ![visual estudio code logo](diacane.jpg)
+
+    3.3.5. Diagrama de la Capa de Datos 
+![visual estudio code logo](diacada.jpg)
+
+ 3.3.6. Diagramas de Componentes
+![visual estudio code logo](dicom.jpg)
+
+3.3.7. Diagramas de Distribución
+![visual estudio code logo](diadi.jpg)
+
+3. CONCLUSIONES Y RECOMENDACIONES 
+
+En este mundo cada día más globalizado, ser competitivo, es una tarea que requiere introducir mejoras en cada una de las áreas de una empresa, con el fin de reducir costos y mejorar la experiencia del cliente, razón por la cual, se debe dar mucha importancia al aumento de la eficiencia interna y parte fundamental, para lograr dicha eficiencia, supone un manejo y control adecuado de las mercancías, para lo cual se deben implementar herramientas informáticas para la gestión administrativa, que permitan hacerle un correcto seguimiento de los diferentes ámbitos de un negocio, durante toda la cadena de procesos.
+
+En definitiva, si no se le da un correcto manejo y control, es muy probable que se presenten pérdidas de dinero y tiempo y que además se generen problemas de logística. Para disminuir este tipo de riesgos, es preciso que las empresas tengan claridad, tanto de sus necesidades, como de las de sus clientes, ya que de este modo podrán tomar la mejor decisión a la hora de implementar un sistema de control de inventarios y escoger el que le brinde mejores soluciones y aporte mayor utilidad.
+
+
+
+4. BIBLIOGRAFÍA
+.
+
+Almache Martínez, Zoila Raquel (2013). Implementación de un Sistema de Gestión de la Calidad para una empresa textil. Tesis de Grado para la obtención del Título de Ingeniera Química. Carrera de Ingeniería Química. Quito: UCE. 263 p.
